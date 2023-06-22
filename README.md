@@ -22,7 +22,6 @@ _Microsoft Power BI_
 
 
 
-[//]: 
 
    [Practical Statistics for Data Scientists]: <https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/>
    [Link to the dashboard]: <https://app.powerbi.com/reportEmbed?reportId=aa940a2d-1651-4efd-92e2-bbed4174ce35&autoAuth=true&embeddedDemo=true>
