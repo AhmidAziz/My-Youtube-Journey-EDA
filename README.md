@@ -16,6 +16,7 @@ My reference and guide was my favourite book in EDA which is [Practical Statisti
 
 # STEP #3 Data Visualisation
 This has been essential step to convert all of the data into a dashboard with interactive design.
+
 [Link to the dashboard]
 ##### Tools used: 
 _Microsoft Power BI_
